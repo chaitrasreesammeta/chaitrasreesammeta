@@ -10,4 +10,4 @@ Tech I work with: FHIR R4, SMART on FHIR, HL7 v2, DICOM/DICOMweb, SNOMED CT, Pyt
 
 Currently building: a medication-safety CDS tool for geriatric ADR detection 
 
-Reach me: csammeta@iu.edu | [linkedin.com/in/chaitrasreesammeta](https://linkedin.com/in/chaitrasreesammeta)
+Reach me: sammetachaitrasree@gmail.com | [linkedin.com/in/chaitrasreesammeta](https://linkedin.com/in/chaitrasreesammeta)
