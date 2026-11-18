@@ -32,9 +32,9 @@ Clinical informatics specialist with a background in pharmacy. I am completing a
 | --- | --- |
 | **[openemr-ai](https://github.com/chaitrasreesammeta/openemr-ai)** | Ambient listening SMART on FHIR application for OpenEMR and a benchmark for automated ICD-10 and CPT coding across hosted and self-hosted LLMs |
 | **[mash-care-navigator](https://github.com/chaitrasreesammeta/mash-care-navigator)** | MASLD/MASH screening tool that calculates FIB-4 from FHIR R4 data and recommends risk-tiered next steps |
-| **LH-Radiology Agents** | Open-source, standards-based multi-agent AI system for end-to-end radiology workflows on LibreHealth Radiology (OpenMRS, Orthanc PACS, OHIF, FHIR R4, Temporal). I built the impression generation and interpretation assistant agents. Co-author of the manuscript "Agentic radiology" |
+| | **[LH-Radiology Agents](https://github.com/chaitrasreesammeta/lh-radiology-agents)** || Open-source, standards-based multi-agent AI system for end-to-end radiology workflows on LibreHealth Radiology (OpenMRS, Orthanc PACS, OHIF, FHIR R4, Temporal). I built the impression generation and interpretation assistant agents. Co-author of the manuscript "Agentic radiology" |
 | **[Clinical-Data-ETL-Pipeline](https://github.com/chaitrasreesammeta/Clinical-Data-ETL-Pipeline)** | ETL pipeline that extracts patient data from an OpenEMR FHIR server, maps conditions with SNOMED CT (Hermes) and SNOMED to ICD-10, loads FHIR resources into a primary care EHR, and generates an HL7 v2 ADT^A01 message. [Project site](https://chaitrasreesammeta.github.io/Clinical-Data-ETL-Pipeline/) |
-| **[masld-synthea-omop](https://github.com/chaitrasreesammeta/masld-synthea-omop)** | Custom Synthea MASLD module, Synthea to OMOP CDM ETL in DuckDB, and validated MASLD at-risk and FIB-4 queries in SQL Server and DuckDB |
+
 
 ## GitHub Activity
 
