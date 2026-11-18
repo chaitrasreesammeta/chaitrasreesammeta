@@ -16,7 +16,7 @@ Clinical informatics specialist with a background in pharmacy. I am completing a
 - **Automated clinical coding:** LLM-based ICD-10-CM and CPT coding from clinical notes, benchmarked on MDACE and synthetic notes
 - **Clinical decision support:** MASLD screening with FIB-4 risk stratification, developed and tested in the Epic sandbox
 - **Clinical data:** OMOP CDM, SNOMED CT, LOINC, ICD-10, ETL pipelines and synthetic patient generation with Synthea
-- **Clinical background:** Pharm.D; previously Healthcare Informatics Analyst at Sanofi and clinical pharmacist
+
 
 ## Technical Skills
 
