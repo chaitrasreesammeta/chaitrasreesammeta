@@ -36,15 +36,5 @@ Clinical informatics specialist with a background in pharmacy. I am completing a
 | **[Clinical-Data-ETL-Pipeline](https://github.com/chaitrasreesammeta/Clinical-Data-ETL-Pipeline)** | ETL pipeline that extracts patient data from an OpenEMR FHIR server, maps conditions with SNOMED CT (Hermes) and SNOMED to ICD-10, loads FHIR resources into a primary care EHR, and generates an HL7 v2 ADT^A01 message. [Project site](https://chaitrasreesammeta.github.io/Clinical-Data-ETL-Pipeline/) |
 
 
-## GitHub Activity
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=chaitrasreesammeta&show_icons=true&hide_border=true&theme=default" alt="GitHub stats" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaitrasreesammeta&layout=compact&hide_border=true&theme=default" alt="Top languages" />
-
-</div>
-
----
 
 Open to clinical informatics, EHR integration and healthcare AI roles across the United States.
